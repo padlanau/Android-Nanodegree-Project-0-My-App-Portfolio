@@ -9,5 +9,5 @@ To introduce you to the process of submitting a project for review. You will be 
 To familiarize you with the experience of receiving feedback on your work from Udacity reviewers. Sharing and receiving feedback on your code is a key part of the Nanodegree program.
 Note: Unlike your other projects, this first project will not be evaluated as "pass" or "no pass" -- all submissions will pass and get feedback.
 
-![ScreenShot](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png)
+![image](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png)
 
