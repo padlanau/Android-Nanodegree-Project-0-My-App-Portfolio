@@ -10,4 +10,4 @@ To familiarize you with the experience of receiving feedback on your work from U
 Note: Unlike your other projects, this first project will not be evaluated as "pass" or "no pass" -- all submissions will pass and get feedback.
 
 ![image](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png =100x20)
-![](./https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png =100x20)
+![image](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png =100x20)
