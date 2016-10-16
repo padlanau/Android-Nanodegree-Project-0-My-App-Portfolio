@@ -11,3 +11,5 @@ Note: Unlike your other projects, this first project will not be evaluated as "p
 
 ![image](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png =100x20)
 ![image](https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png =100x20)
+
+<img src="https://github.com/padlanau/Android-Nanodegree-Project-0-My-App-Portfolio/blob/master/images/device-2016-10-16-110610.png" width="48">
